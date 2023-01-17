@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129049548227",
+    "project_id": "firedb-56436",
+    "storage_bucket": "firedb-56436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129049548227:android:e5dca846f2f9bd72611976",
+        "android_client_info": {
+          "package_name": "it.itsar.firedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129049548227-is24slhltm61nn4uerf1caph4mdqbe9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zV0jlvdhersaqWttfJUQUass64Mcqac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129049548227-is24slhltm61nn4uerf1caph4mdqbe9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
